@@ -8,4 +8,4 @@ Hi! I'm a software engineer working on the data infra team at Twitch. I've been 
 
 I'm interested in working with scientists and helping them find insights from user data. It all started while I was working on the backend risk team at Affirm, a fintech startup. There, I learned how loan underwriting works and the factors that go into making thousands of credit decisions per day. I really enjoyed collaborating with data scientists on new experiments and features, and learning from my more knowledgeable coworkers about data engineering.
 
-In my spare time, I like to read books, eat, and play with my Nintendo Switch. I'm planning to work on bigger side projects this year and doing more baking and gardening.
+In my spare time, I like to read books, eat, and play video games. I'm planning to work on bigger side projects this year, and hoping to spend more time baking and gardening.
