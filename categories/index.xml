@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Eric Shyong</title>
+    <link>https://eshyong.github.io/categories/</link>
+    <description>Recent content in Categories on Eric Shyong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://eshyong.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>blog</title>
+      <link>https://eshyong.github.io/categories/blog/</link>
+      <pubDate>Sun, 16 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eshyong.github.io/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
